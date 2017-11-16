@@ -1,0 +1,104 @@
+ body{
+               background-image: url(wavy-tumblr-abstract-background-8241-8561-hd-wallpapers-thumb.jpg);
+                margin: 0;
+                font-family: arial
+            }
+            .logo{
+                height: 150px;
+                width: 200px;
+                background-image: url(sirByi7Olek.jpg);
+                margin-left: auto
+            }
+            .hd{
+                background-image: url(features.jpg);
+                height: 150px;
+                color: white;
+                
+                padding-left: 100px;
+                display: flex
+            }
+            .main{
+                width: 1200px;
+                margin-left: auto;
+                margin-right: auto;
+                height: 500px;
+                margin-top: 100px
+            }
+            .logoh2{
+                font-size: 30px;
+                margin: 0px
+            }
+            .logop{
+                font-size: 20px;
+                margin: 0px
+            }
+            .hdh2{
+                font-size: 40px;
+                margin: 0px;
+                margin-top: 50px
+            }
+            .flex{
+                display: flex;
+                margin-bottom: 20px
+            }
+            .links{
+              text-decoration: none;
+              width: 300px;
+              height: 300px;
+              background: #4fc1bd
+            }
+            .welcome{
+                width: 800px;
+                height: 400px;
+                background-image: url(2016-10-09.jpg);
+                border: 3px solid darkblue;
+                margin-left: auto
+            }
+            .column{
+                height: 300px;
+                width: 300px;
+                background: #71b6e8;
+                margin-left: auto;
+                margin-right: auto;
+                border: 3px solid darkblue;
+            }
+            .text{
+                font-size: 25px;
+                text-decoration: none;
+                font: 2em Arial, sans-serif;
+                text-shadow: darkblue 1px 1px 0, darkblue -1px -1px 0, 
+                darkblue -1px 1px 0, darkblue 1px -1px 0;
+                color: white;
+            }
+            .hr {
+                width: 250px;
+            }
+.img {
+    margin-left: 70px
+}
+.marginl{
+    margin-left: 15px;
+    font-size: 16px
+}
+.btn{
+    background: #506eeb;
+    padding: 15 20;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    border-color: darkblue
+}
+.box{
+    background: black;
+    height: 800px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    color: white
+}
+.nev{
+    height: 600px;
+    width: 600px;
+}
+.t{
+    margin-top: 15px
+}
